@@ -11,7 +11,7 @@ use Spatie\Permission\Models\Role;
 class RolePermissionSeeder extends Seeder
 {
     /**
-     * Run the database seeds.
+     * Run the database seeds here.
      */
     public function run(): void
     {
